@@ -40,3 +40,5 @@ ordered list
 s.no|name
 ----|----
 1|abc
+2|def
+3|ghi
