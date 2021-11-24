@@ -14,5 +14,21 @@
 
 * points
 
-list
-  - hi
+ordered list
+ 1. a
+ 2. b
+ 3. c
+ 
+ unordered list
+  - a
+  - b
+  * c 
+  
+ nested list
+  1. a
+      - b
+        - c
+
+[google](www.google.com)
+
+![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXarbZQh_d1IeqD76KqubwmlZvfc6zGJkhcQ&usqp=CAU0)
