@@ -31,4 +31,8 @@ ordered list
 
 [google](www.google.com)
 
-![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXarbZQh_d1IeqD76KqubwmlZvfc6zGJkhcQ&usqp=CAU0)
+![baymax](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXarbZQh_d1IeqD76KqubwmlZvfc6zGJkhcQ&usqp=CAU0)
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
